@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.stock {
+    margin: 10px 0;
+}
+
+#subscribeSection {
+    margin-top: 20px;
+}
+
+#stocks {
+    margin-top: 20px;
+}
